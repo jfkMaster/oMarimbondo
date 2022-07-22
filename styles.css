@@ -11,8 +11,9 @@
   border: 0; /* Zeramos o border */
 } /* Com isto acima, ressetamos estas propriedades */
 body {
-  background: #282a36; /* Cor de fundo */
-  font-family: 'Source Sans Pro', sans-serif; /* Definimos o tipo de fonte */
+  background: url("https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/a25f4af8c0106ccbb68fa0e2383741e0433c33f4d2315b82b8eb3f7a9e3c23fe_1.jpg"); /* Imagem de fundo */
+  background-size: cover;
+  font-family: 'comic sans pro', sans-serif; /* Definimos o tipo de fonte */
   color: white;
 }
 header {
